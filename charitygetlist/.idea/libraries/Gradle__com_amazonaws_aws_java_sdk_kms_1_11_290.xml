@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-kms:1.11.290">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.11.290/23c469669f4be0c0b11a7f4756c5767d62916570/aws-java-sdk-kms-1.11.290.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.11.290/36ec2370c428c2a54b96515a9e51511a54759b55/aws-java-sdk-kms-1.11.290-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
